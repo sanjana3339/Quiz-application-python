@@ -1,0 +1,39 @@
+{
+    "ques":[
+    "1.Blood consist of what fluid medium?",
+    "2.Respiratory pigment in human body is",
+    "3.Acid rain is caused by the oxides of ",
+    "4.Any change in the environment to which an organism responds is called ",
+    "5.Which part of nervous system controls the reflex activities of the body?",
+    "6.Hydropower plant are located in the ",
+    "7.The factors on which one magnetic field strength produced by current carrying solenoids depends are ",
+    "8.The image formed on the retina of the human eye is ",
+    "9.At noon the sun appears white as  ",
+    "10.The SI unit of electric current is ",
+    "11.Which of the following gases can be used for storage ",
+    "12.Sodium hydroxide turns phenolphthalein solution ",
+    "13.The most abundant metal in the earths crust is ",
+    "14.Addition reactions are undergone by ",
+    "15.The elements of group 16 are called "
+    ],
+
+    "options":[
+    ["Lymph","Platelets","Plasma","All of the above"],
+    ["Chlorophyll","Water","Blood","Haemoglobin"],
+    ["carbon","nitrogen only","sulphur only","sulphur and nitrogen"],
+    ["stimulus","coordination","response","hormone"],
+    ["Brain","Spinal cord","Cerebrum","Cerebellum"],
+    ["desert area","plane area","hilly terrains","none of above"],
+    ["Magnitude of current","Number of turns","Nature of core material","All of the above"],
+    ["virtual and inverted","real and inverted","real and erect","virtual and erect"],
+    ["light is least scattered","all the colours of the white light are scattered away"," blue colour is scattered the most","red colour is scattered the most"],
+    ["Volt","Faraday","Ampere","Ohms"],
+    ["Carbon dioxide or Oxygen","Nitrogen or Oxygen"," Carbon dioxide or Helium","Helium or Nitrogen"],
+    ["pink","yellow","colourless","orange"],
+    ["Iron","Aluminium","Calcium","Sodium"],
+    ["saturated hydrocarbons (alkanes)","only alkenes","only alkynes","both alkenes and alkynes"],
+    ["Chalcogens","Halogens","Pnicogens","Noble gases"]
+    ],
+
+    "ans":[3,4,4,1,2,3,4,2,1,3,4,1,2,4,1]
+}
